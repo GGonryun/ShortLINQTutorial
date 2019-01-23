@@ -1,6 +1,4 @@
-# Thank you
-Before you begin, I would like to say thank you.
-
+## Thanks for checking out this tutorial!
 If anything isn't clear enough or incorrect, note it and I will adjust this guide according to your feedback. Instructions within brackets [] are atomic actions, these should be performed in that specific sequence without interruption. 
 
 The `=>` means "and then".
