@@ -4,7 +4,7 @@ If anything isn't clear enough or incorrect, note it and I will adjust this guid
 The `=>` means "and then".
 
 For Example:
-To highlight groups of text first you [Highlight Text => Press Ctrl + K => Press C] 
+To comment groups of text first you [Highlight Text => Press Ctrl + K => Press C] 
 
 You can also expect to find additional sources at the end of this file. 
 This short sequence is to familiarize yourself with the structure of LINQ and it's basic functions.
